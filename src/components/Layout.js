@@ -8,7 +8,7 @@ function Layout({ children }) {
       <Header />
       <main
         style={{
-          minHeight: "60vh",
+          minHeight: "70vh",
         }}
       >
         {children}
